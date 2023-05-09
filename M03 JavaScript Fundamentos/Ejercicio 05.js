@@ -1,13 +1,16 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*5️⃣ EJERCICIO 05 5️⃣*/
 
+//////////////////////
 // REPASO
+//////////////////////
 // Suma: +
 // Resta: -
 // Multiplicación: *
 // División: /
 // Módulo o resto: %
 
+// Concatenación de strings: "Hola " + "Mundo" ---> "Hola Mundo"
 
 
 function esPositivo(num) {
@@ -41,6 +44,7 @@ function obtenerAreaRectangulo(alto, ancho) {
    // Retornar el área de un rectángulo teniendo su altura y ancho.
    // Tu código:
 }
+
 
 function retornarPerimetro(lado) {
    // La función recibe como argumento la medida de un lado de un cuadrado.
