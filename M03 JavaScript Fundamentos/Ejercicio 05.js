@@ -1,17 +1,6 @@
 /*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*5️⃣ EJERCICIO 05 5️⃣*/
 
-//////////////////////
-// REPASO
-//////////////////////
-// Suma: +
-// Resta: -
-// Multiplicación: *
-// División: /
-// Módulo o resto: %
-
-// Concatenación de strings: "Hola " + "Mundo" ---> "Hola Mundo"
-
 
 function esPositivo(num) {
    // La función recibe un entero. Devuelve como resultado un string que indica si el número
